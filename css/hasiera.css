@@ -42,7 +42,7 @@
 							display: none;
 						}
 
-						@media only screen and (max-width: 900px){
+						@media only screen and (max-width: 300px){
 							#menu1{
 								display: none;
 							}
